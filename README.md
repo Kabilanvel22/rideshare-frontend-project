@@ -1,4 +1,4 @@
-# Gardening App
+# Ride Share App
 This is a web app developed as a final project  using React.js. 
 
 # Technologies & Tools Used
